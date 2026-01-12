@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "พี่ชอบหนูที่สุดเลย (I Like You The Most) Feat.VARINZ - Speed Up Version",
+  "base_artist": "PONCHET",
+  "createdAt": "2026-01-12T05:22:55.872439Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "พี่ชอบหนูที่สุดเลย (feat. วาลิน)",
+      "artist": "PONCHET feat. VARINZ",
+      "has_synced": true,
+      "path": "select/01_พี่ชอบหนูที่สุดเลย_(feat._วาลิน)_PONCHET_feat._VARINZ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "พี่ชอบหนูที่สุดเลย",
+      "artist": "PONCHET",
+      "has_synced": true,
+      "path": "select/02_พี่ชอบหนูที่สุดเลย_PONCHET.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "พี่ชอบหนูที่สุดเลย (I Like You The Most) Feat.VARINZ (合作演出：VARINZ)",
+      "artist": "PONCHET",
+      "has_synced": true,
+      "path": "select/03_พี่ชอบหนูที่สุดเลย_(I_Like_You_The_Most)_Feat.VARINZ_(合作演出_VARINZ)_PONCHET.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "พี่ชอบหนูที่สุดเลย (I Like You The Most) Feat.VARINZ - Speed Up Version",
+      "artist": "PONCHET, VARINZ - Speed Up Version",
+      "has_synced": true,
+      "path": "select/04_พี่ชอบหนูที่สุดเลย_(I_Like_You_The_Most)_Feat.VARINZ_-_Speed_Up_Version_PONCHET,_VARINZ_-_Speed_Up_Version.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "พี่ชอบหนูที่สุดเลย (I Like You The Most)",
+      "artist": "PONCHET, VARINZ",
+      "has_synced": true,
+      "path": "select/05_พี่ชอบหนูที่สุดเลย_(I_Like_You_The_Most)_PONCHET,_VARINZ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "พี่ชอบหนูที่สุดเลย Feat.VARINZ - Speed Up Version",
+      "artist": "PONCHET",
+      "has_synced": false,
+      "path": "select/06_พี่ชอบหนูที่สุดเลย_Feat.VARINZ_-_Speed_Up_Version_PONCHET.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "พี่ชอบหนูที่สุดเลย (I Like You The Most) Feat.VARINZ",
+      "artist": "PONchet",
+      "has_synced": true,
+      "path": "select/07_พี่ชอบหนูที่สุดเลย_(I_Like_You_The_Most)_Feat.VARINZ_PONchet.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "พี่ชอบหนูที่สุดเลย",
+      "artist": "PONCHET, VARINZ",
+      "has_synced": false,
+      "path": "select/pl_01_พี่ชอบหนูที่สุดเลย_PONCHET,_VARINZ.txt"
+    }
+  ]
+}
